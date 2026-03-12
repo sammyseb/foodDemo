@@ -1,0 +1,4 @@
+# MCP Google Places Configuration
+# Copy this file to ~/.mcp-google-places/config.yaml and add your API key
+
+google_api_key: "YOUR_GOOGLE_API_KEY_HERE"
